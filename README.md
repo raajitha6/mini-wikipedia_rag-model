@@ -1,4 +1,4 @@
-# Local RAG Chatbot
+# Mini Wikipedia - Local RAG Chatbot
 
 A simple Retrieval-Augmented Generation (RAG) chatbot that answers questions using a Wikipedia Q&A dataset. The project runs completely offline using Ollama for both embeddings and text generation.
 
